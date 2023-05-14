@@ -1,0 +1,11 @@
+      Ion:  yes
+     Cond:  yes
+  Exhaust:  yes
+   Subst1:  C7.075H10.65O0.223N0.063[-310] - 13.7
+   Subst2:  NH4ClO4[-2510] - 71
+   Subst3:  Al[0] - 15
+   Subst4:  Fe2O3[-5150] - 0.3
+    P1cam:  p= 10 MПa
+    P2cam:  I=  -1840.020 кДж/кг
+     Ausg:  p(a)= 0.1 MПa
+    Model:  равн.
